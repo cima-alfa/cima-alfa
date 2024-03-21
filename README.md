@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Jeremy, I am 25 years old and I have been interested in web dev since I was about 12.
+Since then, I've done a few projects for clients in Germany and the Czech Republic.
+
+### Universae DAW
+
+I am currently studying web app development at the Universae vocational education institute in Spain, Madrid.
+Even though I have quite a bit of experience, I still have a lot to learn and getting a diploma should hopefully help with better job opportunities.
+
 <!--
 **cima-alfa/cima-alfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
