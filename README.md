@@ -5,7 +5,7 @@ Since then, I've done a few projects for clients in Germany and the Czech Republ
 
 ### Universae DAW
 
-I am currently studying web app development at the Universae vocational education institute in Spain, Madrid.
+I am currently studying web app development at the UNIVERSAE Higher Vocational Training Institute in Spain, Madrid.
 Even though I have quite a bit of experience, I still have a lot to learn and getting a diploma should hopefully help with better job opportunities.
 
 <!--
